@@ -1,16 +1,5 @@
 # live_location
 
-A new Flutter project.
+<img src = "https://user-images.githubusercontent.com/113905423/211482856-bae7cbbe-0fff-4c04-b5b7-ff33795ad327.jpg" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113905423/211482851-770d6e6a-06c1-41e2-9d4f-1cb2b7a98df9.jpg" height = 500 width = 250>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
